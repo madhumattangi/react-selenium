@@ -8,7 +8,8 @@
     "react": "^16.6.3",
     "react-dom": "^16.6.3",
     "react-scripts": "2.1.1",
-    "selenium-webdriver": "^4.0.0-alpha.1"
+    "selenium-webdriver": "^4.0.0-alpha.1",
+    "webdriverio": "^4.14.0"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -16,6 +17,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "s-test": "mocha test"
+    // "s-test": "node .\test\s-test2.js"
   },
   "eslintConfig": {
     "extends": "react-app"
